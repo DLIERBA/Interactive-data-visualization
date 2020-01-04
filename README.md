@@ -44,4 +44,4 @@
 
 
 #### 数据分析图和数据故事
-[链接] (http://nfunm080.gitee.io/interactive_data_visualization)
+[链接](http://nfunm080.gitee.io/interactive_data_visualization)
