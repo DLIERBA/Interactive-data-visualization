@@ -44,4 +44,6 @@
 
 
 #### 数据分析图和数据故事
-[链接](http://nfunm080.gitee.io/interactive_data_visualization)
+[HTML档链接](https://dlierba.github.io/Interactive-data-visualization/)
+[18李岢恩网站链接](http://18101303036.pythonanywhere.com/)
+
